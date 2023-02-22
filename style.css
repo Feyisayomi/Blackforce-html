@@ -1,0 +1,49 @@
+/*Selector{
+    property:value;
+}*/
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    line-height: 2.0;
+    text-align: center;
+    margin: top 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+}
+
+#main {
+    margin: 50px 50px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(124, 133, 155);
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    list-style-type: square;
+    list-style: square;
+    margin-block-start: 2em;
+    margin-block-end: 2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    list-style-position: inside;
+    padding-inline-start: 40px;
+    font-size: larger;
+}
+
+#img {
+    background-color: aliceblue;
+    padding: 10px;
+    margin: auto;
+    height: auto;
+    display: block;
+    max-width: 100%;
+}
+
+a {
+    text-align: justify;
+}
